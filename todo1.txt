@@ -1,0 +1,8 @@
+create github
+create a master and name it as Subjects Of Dhempe College
+Add branch Computer Science
+Add branch Botany
+Add a file using create file in computer science
+add a file using add file in botony
+merge computer science to master
+Merge botony to master
